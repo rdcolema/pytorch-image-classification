@@ -19,7 +19,7 @@ jsonschema==3.0.1
 jupyter-client==5.3.1
 jupyter-core==4.5.0
 MarkupSafe==1.1.1
-mistune==0.8.4
+mistune==2.0.3
 mkl-fft==1.0.12
 mkl-random==1.0.2
 nb-conda==2.2.1
